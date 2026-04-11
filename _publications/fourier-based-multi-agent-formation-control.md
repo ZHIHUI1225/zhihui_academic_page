@@ -2,7 +2,7 @@
 title: "Fourier-Based Multi-Agent Formation Control to Track Evolving Closed Boundaries"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-01-01-fourier-based-multi-agent
+permalink: /publication/fourier-based-multi-agent-formation-control
 excerpt: 'A study on tracking evolving closed boundaries using Fourier-based control.'
 date: 2023-01-01
 venue: 'IEEE Transactions on Circuits and Systems I Regular Papers'
