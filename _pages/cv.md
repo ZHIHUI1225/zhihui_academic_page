@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Mechanical Engineering, The Hong Kong Polytechnic University, Hong Kong, 2022 to present
-  * Romi Lab
-  * Supervisor: Professor David Navarro-Alarcon
+  * [Romi Lab](https://www.romi-lab.org/)
+  * Supervisor: [Professor David Navarro-Alarcon](https://www.polyu.edu.hk/me/people/academic-teaching-staff/david-navarro-alarcon-prof/?sc_lang=en)
 * Visiting Student, University of Modena and Reggio Emilia, Reggio Emilia, Italy, October 2024 to March 2025
   * Supervisor: Professor Lorenzo Sabattini
 * M.S. in Control Science and Engineering, Harbin Institute of Technology, Harbin, China, 2020 to 2022

@@ -21,3 +21,9 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Ignore local videos and temporary/local-only files
+files/*.mp4
+.swift-module-cache/
+AGENTS.md
+简历中文.pdf

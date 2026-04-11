@@ -7,7 +7,7 @@ permalink: /publication/optimal-leader-follower-affine-formation-control
 excerpt: 'Research on optimal affine formation control for linear multi-agent systems.'
 date: 2022-01-01
 venue: 'Optimal Control Applications and Methods'
-paperurl: '/files/Zhi%20%E7%AD%89%E3%80%82%20-%202022%20-%20Optimal%20leader%E2%80%90follower%20affine%20formation%20control%20o.pdf'
+paperurl: '/files/Optim%20Control%20Appl%20Methods%20-%202021%20-%20Zhi%20-%20Optimal%20leader%E2%80%90follower%20affine%20formation%20control%20of%20linear%20multi%E2%80%90agent%20systems.pdf'
 citation: 'Zhi, H., Chen, L., Li, C., & Lv, Y. (2022). &quot;Optimal leader-follower affine formation control of linear multi-agent systems.&quot; <i>Optimal Control Applications and Methods</i>. 43(1).'
 ---
 

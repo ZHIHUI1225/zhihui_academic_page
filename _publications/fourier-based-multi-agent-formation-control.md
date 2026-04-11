@@ -6,7 +6,7 @@ permalink: /publication/fourier-based-multi-agent-formation-control
 excerpt: 'A study on tracking evolving closed boundaries using Fourier-based control.'
 date: 2023-01-01
 venue: 'IEEE Transactions on Circuits and Systems I Regular Papers'
-paperurl: ''
+paperurl: '/files/curve_formation.pdf'
 citation: 'Zhang, B., Zhi, H., Romero, J.G., Li, X., & Navarro-Alarcon, D. (2023). &quot;Fourier-Based Multi-Agent Formation Control to Track Evolving Closed Boundaries.&quot; <i>IEEE Transactions on Circuits and Systems I Regular Papers</i>. 70(11).'
 ---
 

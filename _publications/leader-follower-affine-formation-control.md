@@ -7,7 +7,7 @@ permalink: /publication/leader-follower-affine-formation-control
 excerpt: 'Control strategies for second-order nonlinear uncertain multi-agent systems.'
 date: 2021-01-01
 venue: 'IEEE Transactions on Circuits and Systems II Express Briefs'
-paperurl: '/files/Leader-follower_Affine_Formation_Control_of_Second-order_Nonlinear_Uncertain_Multi-agent_Systems.pdf'
+paperurl: '/files/LeaderFollower_Affine_Formation_Control_of_Second-Order_Nonlinear_Uncertain_Multi-Agent_Systems.pdf'
 citation: 'Zhi, H., Chen, L., Li, C., & Guo, Y. (2021). &quot;Leader-Follower Affine Formation Control of Second-Order Nonlinear Uncertain Multi-Agent Systems.&quot; <i>IEEE Transactions on Circuits and Systems II Express Briefs</i>. 68(12).'
 ---
 
