@@ -13,11 +13,11 @@ Education
 ======
 * Ph.D. in Mechanical Engineering, The Hong Kong Polytechnic University, Hong Kong, 2022 to present
   * Romi Lab
-  * Advisor: Professor David Navarro-Alarcon
+  * Supervisor: Professor David Navarro-Alarcon
 * Visiting Student, University of Modena and Reggio Emilia, Reggio Emilia, Italy, October 2024 to March 2025
-  * Advisor: Professor Lorenzo Sabattini
+  * Supervisor: Professor Lorenzo Sabattini
 * M.S. in Control Science and Engineering, Harbin Institute of Technology, Harbin, China, 2020 to 2022
-  * Advisors: Professor Chuanjiang Li and Professor Yanning Guo
+  * Supervisors: Professor Chuanjiang Li and Professor Yanning Guo
 * B.Eng. in Automation, Beijing University of Chemical Technology, Beijing, China, 2016 to 2020
 
 Research Interests
